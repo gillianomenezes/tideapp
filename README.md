@@ -8,11 +8,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-First clone the repository and entry in the application page.
+First clone the repository.
 
 ```
 https://github.com/gillianomenezes/tideapp.git
-cd tideapp
 ```
 
 ## Built With
