@@ -1,8 +1,18 @@
 # Contributors
 
+#### Name: [Adam Lages](https://github.com/adamflages)
+- Place: Recife, Pernambuco, Brazil
+- Bio: I am a Web Developer.
+- GitHub: [adamflages](https://github.com/adamflages)
+
+#### Name: [Geraldo Braz](https://github.com/geraldobraz)
+- Place: Recife, Pernambuco, Brazil
+- Bio: I am a Fullstack Developer.
+- GitHub: [geraldobraz](https://github.com/geraldobraz)
+
 #### Name: [Gilliano Menezes](https://github.com/gillianomenezes)
-- Place: Recife, Brazil
-- Bio: Hi! I'm Gilliano, a Brazilian Software Engineer based on Recife, Brazil. Here is some information about me: http://bit.ly/1GCY6XX
+- Place: Recife, Pernambuco, Brazil
+- Bio: I am a Backend Developer.
 - GitHub: [gillianomenezes](https://github.com/gillianomenezes)
 
 #### Name: [Nick Macedo](https://github.com/NicholasMacedo)
